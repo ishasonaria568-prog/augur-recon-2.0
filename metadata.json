@@ -1,0 +1,6 @@
+{
+  "name": "AUGUR RECON 2.0",
+  "description": "AI-Augmented Attack Surface Intelligence — Professional network reconnaissance, DNS enumeration, TLS inspection, and attack surface analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
